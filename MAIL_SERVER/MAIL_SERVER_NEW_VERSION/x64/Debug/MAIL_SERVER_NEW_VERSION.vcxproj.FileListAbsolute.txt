@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\MAIL_SERVER_NEW_VERSION\MAIL_SERVER_NEW_VERSION\x64\Debug\MAIL_SERVER_NEW_VERSION.vcxproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MAIL_SERVER_NEW_VERSION\MAIL_SERVER_NEW_VERSION\x64\Debug\MAIL_SERVER_NEW_VERSION.vcxproj.SuggestedBindingRedirects.cache

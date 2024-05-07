@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\admin\source\repos\MAIL_SERVER_NEW_VERSION\MAIL_SERVER_NEW_VERSION\POP3.h(5,1): warning C4005: 'PORT': macro redefinition
+C:\Users\admin\source\repos\MAIL_SERVER_NEW_VERSION\MAIL_SERVER_NEW_VERSION\SMTP.h(4,1): message : see previous definition of 'PORT'
+C:\Users\admin\source\repos\MAIL_SERVER_NEW_VERSION\MAIL_SERVER_NEW_VERSION\main.cpp(16,31): warning C4390: ';': empty controlled statement found; is this the intent?
+  DataMail.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MAIL_SERVER_NEW_VERSION.vcxproj -> C:\Users\admin\source\repos\MAIL_SERVER_NEW_VERSION\x64\Debug\MAIL_SERVER_NEW_VERSION.exe
