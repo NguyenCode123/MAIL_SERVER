@@ -1,2 +1,3 @@
 # MAIL_SERVER
-This project  works like a Mail Client that can send and recieve mails by connecting port SMTP and POP3 to Mail Server.
+If we want the Mail Client to send/recieve mail, we will need Mail Server to store the mail data from Mail CLient.
+This is the MAIL SERVER project using Socket
